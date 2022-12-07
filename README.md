@@ -11,6 +11,9 @@ This python project analyzes an extensive dataset that contains data pertaining 
 7. How has the value of production changed over time?
 
 This code primarily uses pandas and plotnine to rearrange and visualize the data. 
-The output of this code is given in the ipnb file, which allows the viewer to see the code and its output together. 
+
+The output of this code is given in the ipnb file, which allows the viewer to see the code and its output together. I was unable to show the results of the graph in this markdown file because they would not show up. However, all results and their respective questions can be seen in the code file. 
+
+Users can run the code easily by putting in their own dataset (provided it has the same headings), and running each section of code. 
 
 This code could be used to analyze future data on bees, and to help project honey projected production in different states. 
