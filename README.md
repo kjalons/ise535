@@ -9,6 +9,7 @@ This python project analyzes an extensive dataset that contains data pertaining 
 5. How has the total production changed over time?
 6. How many colonies are there now?
 7. How has the value of production changed over time?
+8. How does the yield per colony differ in the top six states, in the last five years (since 2017)?
 
 This code primarily uses pandas and plotnine to rearrange and visualize the data. 
 
